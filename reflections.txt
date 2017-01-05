@@ -10,7 +10,7 @@ Your response goes here!
 
 What new skills have you learned?
 
-I am a little more advanced so I didn’t learn a lot of new stuff, although I didn’t know who to use <sup>, and it was nice getting a little refresher in some of basic html elements
+I am a little more advanced so I didn’t learn a lot of new stuff, although I didn’t know how to use <sup>, and it was nice getting a little refresher in some of the basic html elements
 
 What has been easy?
 
